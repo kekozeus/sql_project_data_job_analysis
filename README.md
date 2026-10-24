@@ -2,8 +2,7 @@
 This project focuses on analyzing job postings related to the data field using SQL and PostgreSQL. The main goal is to explore the job market, understand which positions offer higher salaries, identify the most in-demand skills, and discover which technologies can be useful for building a career as a Data Analyst.
 
 This project is part of my learning journey in data analytics and allows me to practice SQL queries using real-world job market data.
-
-
+### Project made while following Luke Barousse's tutorial and data set. Link: [Tutorial] ((https://youtu.be/MOzEvNYvbik)
 # 🎯 Objectives
 - Identify the highest-paying Data Analyst positions.
 
